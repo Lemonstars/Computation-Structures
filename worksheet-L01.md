@@ -92,3 +92,54 @@ major | encoding
  
  ### I
  (5)  
+ 
+ ### J
+ 3  
+ 
+ ### K
+ I(X)=log<sub>2</sub><sup>1</sup>/<sub>0.29</sub>  
+ 
+ ### L
+ I don't know.  
+ 
+ ### M
+ Message | encoding
+ ------- | --------
+    M1   |   0
+    M2   |  110
+    M3   |  1110
+    M4   |  1111
+    M5   |   10
+ 
+ the average number of bits = 1\*0.6+3\*0.08+4\*0.02+4\*0.01+2\*0.29=1.54 bits  
+ 
+ ### N
+  Grade | encoding
+ ------- | --------
+    A   |   00
+    B   |   01
+    C   |   10
+    D   |   110
+    F   |   111
+    
+ ### O
+ D  
+ 
+ ## Error Detection and Correction
+ 
+ num | answer
+ --- | ------
+  A  |  1 0
+  B  | 11011
+  C  |  1 0
+  D  |   1
+  E  | yes no
+  F  | 4 3 1
+  G  |   2
+  H  |  (4,4)
+  I  |  (4,2)
+  J  |  (1,1)
+  K  |  (4,4)
+ 
+ 
+ 
