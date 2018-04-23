@@ -103,19 +103,19 @@ major | encoding
  I don't know.  
  
  ### M
- Message | encoding
+ message | encoding
  ------- | --------
-    M1   |   0
-    M2   |  110
-    M3   |  1110
-    M4   |  1111
-    M5   |   10
+    M1   |    0
+    M2   |   110
+    M3   |   1110
+    M4   |   1111
+    M5   |    10
  
  the average number of bits = 1\*0.6+3\*0.08+4\*0.02+4\*0.01+2\*0.29=1.54 bits  
  
  ### N
   Grade | encoding
- ------- | --------
+ ------ | --------
     A   |   00
     B   |   01
     C   |   10
