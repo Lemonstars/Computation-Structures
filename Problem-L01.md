@@ -45,15 +45,15 @@ num | answer
  
  ### C
  letter | encoding
- ------ | -------
+ ------ | ------
     E   |    0
     A   |   100
     I   |   101
     O   |   110
-    U   |   111
-  
- the average number of bits is 2.2 bits  
-  
+    U   |   111 
+ 
+ the average number of bits is 2.2 bits
+ 
 ## Problem 4
   num | answer
   --- | ------
@@ -65,6 +65,6 @@ num | answer
    
 ## Problem 5
   num | answer 
+  --- | ------
    A  | (1)(3)
    B  | (1)(1,1) (2)correct (3)(2,2) (4)data correct
-   C  | 
