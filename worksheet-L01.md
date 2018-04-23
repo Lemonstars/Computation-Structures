@@ -114,14 +114,14 @@ major | encoding
  the average number of bits = 1\*0.6+3\*0.08+4\*0.02+4\*0.01+2\*0.29=1.54 bits  
  
  ### N
-  Grade | encoding
- ------ | --------
-    A   |   00
-    B   |   01
-    C   |   10
-    D   |   110
-    F   |   111
-    
+ grade | encoding
+ ----- | -------
+   A   |    00
+   B   |    01
+   C   |    10
+   D   |    110
+   F   |    111
+   
  ### O
  D  
  
