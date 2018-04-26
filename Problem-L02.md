@@ -44,5 +44,42 @@ num | answer
  D  | log<sub>2</sub>3
  E  | 27 log<sub>2</sub>27 5
  F  | 475bits/second 300bits/second
-  
+
+## Problem 5
+To be honest, I don't understand the problem. I can't catch some key points completely.
+[See this](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tutorial-problems/MIT6_004s09_tutor02_sol.pdf)  
+
+## Problem 6
+num | answer
+--- | ------
+ A  |   C
+ B  |   0.25V
+ C  |   No
+D/E |  [See this](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tutorial-problems/MIT6_004s09_tutor02_sol.pdf)
+ 
+## Problem 7
+
+### A
+
+ x | y  | value
+-- | -- | -----
+0 | 0 |  0
+0 | 1 |  0
+1 | 0 |  0
+1 | 1 |  1
+
+num | answer
+ B  | [See this](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tutorial-problems/MIT6_004s09_tutor02_sol.pdf)
+ C  |  5ns
+ D  | [See this](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tutorial-problems/MIT6_004s09_tutor02_sol.pdf)
+ E  | [See this](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tutorial-problems/MIT6_004s09_tutor02_sol.pdf)
+ 
+## Problem 8
+num | answer
+--- | ------
+ A  | Yes
+ B  | [See this](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tutorial-problems/MIT6_004s09_tutor02_sol.pdf)
+ C  | No
+ 
+
  
